@@ -7,6 +7,9 @@ public class Class04Operators {
         // logical operators
         // && (and), || (or)
 
+        //Unary
+        // ++, --
+
         int number1 = 10;
         int number2 = 20;
         int subtractionResult = number1 - number2;
