@@ -29,6 +29,8 @@ public class Class07ConditionalSwitch {
             case 7:
                 System.out.println("It's saturday");
                 break;
+            default:
+                System.out.println("Invalid Option");
         }
     }
 }
