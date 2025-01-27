@@ -1,6 +1,6 @@
 package academy.devdojo.javaoneforall.introduction;
 
-public class class08ConditionalSwitchExercice {
+public class Class08ConditionalSwitchExercice {
     public static void main(String[] args) {
         int weekDay = 4;
         switch (weekDay){
