@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall;
+package academy.devdojo.javaoneforall.introduction;
 
 //in default settins of SWITCH, all after the correct case is executable
 //so after each case, put the BREAK

@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall;
+package academy.devdojo.javaoneforall.introduction;
 
 public class Class10LoopExercice {
     public static void main(String[] args) {
