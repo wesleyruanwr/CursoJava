@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall.introduction;
+package academy.devdojo.javaoneforall;
 
 public class class08ConditionalSwitchExercice {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall.introduction;
+package academy.devdojo.javaoneforall;
 
 public class Class14Foreach {
     public static void main(String[] args) {

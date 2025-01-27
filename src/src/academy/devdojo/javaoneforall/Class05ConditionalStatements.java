@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall.introduction;
+package academy.devdojo.javaoneforall;
 
 public class Class05ConditionalStatements {
     public static void main(String[] args) {

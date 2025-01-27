@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall.introduction;
+package academy.devdojo.javaoneforall;
 
 //the diferrence between while and do-while is if the conditional, in this case counter be less then 10 be false
 //the while block never be executed, and the do-while will be executed in the same way
